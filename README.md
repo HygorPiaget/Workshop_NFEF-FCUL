@@ -1,5 +1,5 @@
 # Workshop_NFEF-FCUL
-Material para o workshop dos estágios de verão do CFTC: Why are we locked down? The role of mobility in  epidemic models
+Material para o workshop NFEF-FCUL: Bibliotecas de python com foco em análise de dados
 
 1. O diretório concelhos-shapefiles contem os shapefiles necessários para desenhar o mapa de Portugal;
 2. O arquivo concelho_info.csv contem os dados demográficos dos concelhos de Portugal (ID=código concelho, Nome, PopTot=Populaço em 2019, Superfície=Área, NUT=Região do país);
